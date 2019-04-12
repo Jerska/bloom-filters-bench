@@ -1,0 +1,19 @@
+{
+  "name": "filters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bloom-filters": "^0.5.2",
+    "bloomfilter": "^0.0.18",
+    "prettier": "^1.16.4"
+  },
+  "dependencies": {
+    "bloom-filter-cpp": "^1.2.0"
+  }
+}
